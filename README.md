@@ -4,13 +4,14 @@
 
 ## 📊 Current Focus Areas
 
-- Deepening my full-stack development skills and best practices
-- Understanding GenAI fundamentals and practical implementations
+- Deepening my full-stack development skills and best practices .
+- Understanding GenAI, Agentic AI fundamentals and its practical implementations
 
 ## 🌟 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/harshit-agrawala-09b90a327/)
 - 🐙 [GitHub](https://github.com/harshit-technocrat11)
+- 📧 harshit2z1agrawala@gmail.com
 - 📧 Reach out if you want to collaborate or chat!
 
 ## 📈 GitHub Stats
