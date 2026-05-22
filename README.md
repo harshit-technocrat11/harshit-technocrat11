@@ -17,8 +17,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshit-technocrat11&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-technocrat11&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="profile/stats.svg" alt="GitHub Stats" width="48%"/>
+  <img src="profile/top-langs.svg" alt="Top Languages" width="48%"/>
 </div>
 
 <div align="center">
