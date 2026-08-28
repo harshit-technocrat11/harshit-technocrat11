@@ -4,8 +4,8 @@
 
 ## 📊 Current Focus Areas
 
-- Deepening my full-stack development skills and best practices .
-- Understanding GenAI, Agentic AI fundamentals and its practical implementations
+- Deepening my full-stack development skills and best practices.
+- Understanding GenAI, Agentic AI fundamentals and practical implementations.
 
 ## 🌟 Let's Connect
 
@@ -17,14 +17,14 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshit-technocrat11&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-technocrat11&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harshit-technocrat11&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-technocrat11&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-technocrat11&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=harshit-technocrat11&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
 
-*Passionate about solving Real-World problems, with an innovative mindset* 🚀
+*Passionate about solving real-world problems with an innovative mindset* 🚀
