@@ -32,14 +32,19 @@
 
 ## 📈 GitHub Stats
 
+<!-- Stats card includes commits, pull requests, issues, repositories, and stars. -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshit-technocrat11&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-technocrat11&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harshit-technocrat11&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats — commits, pull requests, issues, repositories, and stars" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-technocrat11&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800" alt="Top Languages" width="49%" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=harshit-technocrat11&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" width="100%"/>
-</div>
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harshit-technocrat11&theme=tokyonight&hide_border=false&starting_year=2025&date_format=M%20j%2C%20Y&cache_seconds=1800" alt="GitHub Contribution Streak starting in 2025" width="100%" />
+</p>
+
+> Contribution tracking is configured from **January 2, 2025** onward. The streak service accepts the starting year (`2025`), so the displayed range may begin at the first recorded contribution in that year.
 
 ---
 
