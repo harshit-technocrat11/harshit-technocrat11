@@ -44,7 +44,7 @@
 ## 📊 GitHub Contribution History
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit-technocrat11&custom_title=GitHub%20Contribution%20History&theme=tokyo-night&hide_border=true&area=true&from=2025-01-02&to=2026-09-19" alt="GitHub contribution history" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit-technocrat11&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution history" width="100%"/>
 </div>
 
 ---
