@@ -44,8 +44,6 @@
   <img src="https://streak-stats.demolab.com?user=harshit-technocrat11&theme=tokyonight&hide_border=false&starting_year=2025&date_format=M%20j%2C%20Y&cache_seconds=1800" alt="GitHub Contribution Streak starting in 2025" width="100%" />
 </p>
 
-> Contribution tracking is configured from **January 2, 2025** onward. The streak service accepts the starting year (`2025`), so the displayed range may begin at the first recorded contribution in that year.
-
 ---
 
 *Passionate about solving real-world problems with an innovative mindset* 🚀
