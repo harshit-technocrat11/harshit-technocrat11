@@ -38,13 +38,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=harshit-technocrat11&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-## 📊 GitHub Contribution History
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit-technocrat11&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution history" width="100%"/>
+  <img src="https://streak-stats.demolab.com?user=harshit-technocrat11&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" width="100%"/>
 </div>
 
 ---
